@@ -44,7 +44,6 @@ To engineer automation systems that **remove human bottlenecks**, standardize op
 
 ## 🌐 Website
 https://rvencis.github.io  
-(Official domain coming soon)
 
 ---
 
